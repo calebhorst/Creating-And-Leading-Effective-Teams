@@ -1,0 +1,18 @@
+## Building a Culture of Trust
+```
+In my teams, I strive to build a culture of trust. I want my teams to trust me, I want them to trust one another, and I want them to trust themselves. Stephen Covey's son, also named Stephen, wrote a book called "The Speed of Trust", which proposes that when there is trust, things happen quicker. When you trust your boss, you take her for her word and you don't need to understand her reasoning. When you trust a friend, you read what they recommend or buy what they suggest. Can you imagine working on a team where everyone deeply trusts everyone else? That doesn't just happen. Here are some ideas on building a culture of trust in your team. First, make sure you are trustworthy, Everyone should know, they can trust what you say. This comes from speaking the truth, being as open as you should, and even trusting yourself. These things go towards building your own integrity. Second, be consistent even through change. I find when I'm consistent to principles such as respecting others, being honest, and empowering my team, changes can come and go, but my team will still trust me and even be able to predict how I would react to something. Third, manage change wisely. Your team is watching how you handle change. Does it frustrate you and you need to vent for a day? Do you wish that customers or organizational leaders didn't ask for changes? Your team will follow your lead on this. If you don't trust customers or leaders, you invite your team to distrust customers and leaders. Fourth, celebrate everyone's wins, even if we wish they were our wins. This is one of the most important things I've learned as I've worked with other people. If I'm jealous of them or which there wins were mine. They'll catch on to that and they won't trust me. Fifth trust comes from transparency. People need to know they can ask you and their colleagues questions and get honest responses. Transparency, while respecting confidentiality, means we don't hoard information, which is a surefire way of destroying trust in a team. Sixth, own your mistakes. When you make a mistake, which I'm sure you will, genuinely admit your mistake, genuine communication builds trust while defensive positioning erodes trust. Finally, really support others on your team, especially when they make mistakes. When your team knows you trust them that you have their back, they will reciprocate that towards you and their colleagues. Building a team culture starts with you. Take ideas from my list and add your own to create a culture of trust and you should see amazing things happen on your team.
+```
+
+## Notes
+- Building a culture of trust is essential in teams.
+- Trust should exist among team members, with the team leader, and within individuals themselves.
+- Trust leads to quicker and more efficient actions.
+- To build a culture of trust:
+  1. Be trustworthy by speaking the truth, being open, and trusting yourself.
+  2. Maintain consistency in your principles and actions even during times of change.
+  3. Manage change wisely to set an example for the team.
+  4. Celebrate everyone's wins, even when you wish they were your own.
+  5. Foster transparency by providing honest responses and sharing information.
+  6. Admit your mistakes genuinely to build trust, avoiding defensive postures.
+  7. Support your team members, especially when they make mistakes, to establish mutual trust.
+- Building a trustworthy team culture begins with the team leader's actions and values.
